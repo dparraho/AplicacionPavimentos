@@ -6,6 +6,7 @@ Aplicación desarrollada para un taller en la materia Pavimentos
 ![Alt text](https://github.com/dparraho/AplicacionPavimentos/blob/master/images/espesor.PNG "Tercera pestaña")
 
 Esta última pestaña contiene un error conceptual. La subrasante es de espesor infinito, la palabra correcta que debe usarse es sub-base.
+
 ![Alt text](https://github.com/dparraho/AplicacionPavimentos/blob/master/images/costos.PNG "Pestaña final")
 
 ## Autor
